@@ -37,7 +37,8 @@
 
   - Ajai
 
-- Morningstar, Sipgate, Buffer incl. Salary Systems (https://buffer.com/resources/salary-formula-changes-2019/- and https://buffer.com/salaries)
+- Morningstar, Sipgate, Buffer incl. Salary Systems
+  (https://buffer.com/salaries)
   - Alev
 
 ---
